@@ -1,0 +1,7 @@
+{
+  "parent": "sage:block/template_fence_gate",
+  "textures": {
+    "1": "minecraft:block/jungle_fence",
+    "particle": "minecraft:block/jungle_planks"
+  }
+}

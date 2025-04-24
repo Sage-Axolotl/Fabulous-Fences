@@ -1,0 +1,7 @@
+{
+  "parent": "sage:block/template_fence_gate_wall",
+  "textures": {
+    "1": "minecraft:block/warped_fence",
+    "particle": "minecraft:block/warped_planks"
+  }
+}

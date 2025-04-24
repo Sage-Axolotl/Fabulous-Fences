@@ -1,0 +1,7 @@
+{
+  "parent": "sage:block/template_fence_gate_wall_open",
+  "textures": {
+    "1": "minecraft:block/spruce_fence",
+    "particle": "minecraft:block/spruce_planks"
+  }
+}

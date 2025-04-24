@@ -1,0 +1,7 @@
+{
+  "parent": "sage:block/template_fence_gate_open",
+  "textures": {
+    "1": "minecraft:block/pale_oak_fence",
+    "particle": "minecraft:block/pale_oak_planks"
+  }
+}
