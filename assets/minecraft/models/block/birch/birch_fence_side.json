@@ -1,0 +1,7 @@
+{
+  "parent": "sage:block/template_fence_side",
+  "textures": {
+    "0": "minecraft:block/birch_fence",
+    "particle": "minecraft:block/birch_planks"
+  }
+}

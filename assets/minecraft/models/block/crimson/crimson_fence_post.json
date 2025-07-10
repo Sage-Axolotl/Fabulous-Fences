@@ -1,0 +1,7 @@
+{
+  "parent": "sage:block/template_fence_post",
+  "textures": {
+    "0": "minecraft:block/crimson_fence",
+    "particle": "minecraft:block/crimson_planks"
+  }
+}
