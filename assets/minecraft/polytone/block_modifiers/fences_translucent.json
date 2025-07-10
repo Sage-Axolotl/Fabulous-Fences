@@ -1,4 +1,0 @@
-{
-	"targets": ["minecraft:birch_fence", "minecraft:birch_fence_gate"],
-	"render_type": "translucent"
-}
